@@ -1,2 +1,3 @@
 # primeiro-repositorio-github
-Primeiro repositório para estudo  
+
+Primeiro repositório para estudo na cubos academy.
